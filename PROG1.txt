@@ -9,3 +9,4 @@
 9. tijeras - http://dle.rae.es/?id=TijerasEjemplo
 10. estuche - http://dle.rae.es/?id=EstucheEjemplo
 11. laboratorio
+12. Silla
